@@ -1,0 +1,8 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer1": "item/thick_potion_overlay",
+    "layer0": "item/potion_overlay",
+    "layer2": "item/splash_potion"
+  }
+}
