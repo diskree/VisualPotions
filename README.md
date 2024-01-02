@@ -24,7 +24,7 @@ The texture contains colors of water mixed with Glowstone Dust.
 
 The texture contains colors of water mixed with Nether Wart.
 
-### Mundane
+### Mundane Potion
 
 ![image](https://github.com/diskree/VisualPotions/assets/96978370/d4d22ccf-6a9b-4e15-88c7-a6ff29f6619b)
 
