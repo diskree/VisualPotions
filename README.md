@@ -1,6 +1,6 @@
 # VisualPotions
 
-[<img src="https://github.com/modrinth/art/blob/main/Branding/Badge/badge-dark.svg"/>](https://modrinth.com/modpack/achievetodo)
+[<img src="https://github.com/modrinth/art/blob/main/Branding/Badge/badge-dark.svg"/>](https://modrinth.com/resourcepack/visualpotions)
 
 Unique textures for potions that look the same in Vanilla! Now you can identify potions without needing to hover over them.
 
